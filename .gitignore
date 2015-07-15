@@ -214,8 +214,3 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
-
-
-## defined  by liqiang
-/node_modules
-/build
